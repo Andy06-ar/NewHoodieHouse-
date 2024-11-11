@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+header{
+    background-image: url(Images/khamkeo-EAVCUS_O8NA-unsplash.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+body {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+  }
+  
+.titulo{
+    flex: auto;
+    text-align: center;
+    letter-spacing: 8px;
+    color:rgb(211, 207, 201);
+
+}
+.logo{
+    text-align: center;
+}
+.btn-outline-success{
+    background-color: rgb(195, 200, 136);
+}
+.btn-outline-success:hover{
+    color:rgb(211, 207, 201);
+}
